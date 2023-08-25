@@ -1,0 +1,26 @@
+body{
+    background-color: #f8e8a6;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+img{
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+  transform: rotate(90deg);
+  margin-top: 10px;
+}
+.link{
+    text-align: center;
+    display: block;
+    
+}
+a:-webkit-any-link {
+    color: green;
+    cursor: pointer;
+    text-decoration: underline;
+}
