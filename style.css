@@ -16,9 +16,11 @@ img{
 }
 .link{
     text-align: center;
-    display: block;
-    
 }
+.link a{
+    margin:0 10px;    
+}
+
 a:-webkit-any-link {
     color: green;
     cursor: pointer;
